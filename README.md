@@ -109,12 +109,12 @@ These visualizations help understand the model's performance and identify the mo
 ## Folder Structure
 
 ```
-PRODIGY_DS_03/
+SCT_DS_03/
 │
 ├── bank-full.csv
-├── Task03.ipynb
+├── Purchase_Prediction_Using_Decision_Tree.ipynb
 ├── README.md
-└── output.png
+└── output_images/
 ```
 
 ---
